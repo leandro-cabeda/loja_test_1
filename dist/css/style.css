@@ -1,0 +1,88 @@
+
+.modal-content {
+    border-radius: 10px;
+}
+
+p{
+    margin: 0;
+}
+
+.container-table{
+    background: #beb7b7;
+    border-radius: 36px;
+    padding: 1%;
+    width: 99%;
+}
+
+.descricao{
+    color:white;
+    font-weight: bold;
+}
+
+#listaFuncionario{
+    border: 1px solid;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#listaFuncionario_wrapper{
+    display: block !important;
+}
+
+#listaFuncionario tr, #listaFuncionario th,
+#listaFuncionario tr, #listaFuncionario th{
+    background: oldlace;
+    text-align: center;
+}
+
+#listaFuncionario tr td,
+#listaFuncionario tr td{
+    text-align: center;
+}
+
+.form-control{
+    border:1px solid blue;
+    border-radius: 18px;
+    
+}
+
+.modal-footer{
+    text-align: center;
+}
+
+.modal-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+}
+
+.label-alinhamento{
+    margin-top: 1%;
+    margin-left: 2%;
+}
+
+.w-40{
+    width: 40%;
+}
+
+.w-45{
+    width: 45%;
+}
+
+.w-66{
+    width: 66%;
+}
+
+.w-70{
+    width: 70%;
+}
+
+.w-80{
+    width: 80%;
+}
+
+.color-text{
+    color: white;
+}
